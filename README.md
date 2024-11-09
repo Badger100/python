@@ -1,0 +1,1 @@
+Solving chalanges from https://www.w3resource.com/python-exercises/python-basic-exercises.php to learn python 
